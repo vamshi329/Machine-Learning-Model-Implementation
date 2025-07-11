@@ -81,17 +81,10 @@ python linear_regression.py
 - Interview preparation
 - Academic reference
 
-## 📽️ Project Demo
-
-You can watch the project demonstration video here: [YouTube Link](#) <!-- Replace with actual link -->
-
+  
 ## 🙌 Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to fork the repository and submit a pull request.
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
